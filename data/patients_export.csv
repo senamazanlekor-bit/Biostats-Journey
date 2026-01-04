@@ -1,0 +1,6 @@
+"id","nom","diabete","glycemie"
+1,"Awa",TRUE,1.4
+2,"Moussa",FALSE,0.9
+3,"Jean",TRUE,1.8
+4,"Sophie",FALSE,0.95
+5,"Ibrahim",FALSE,0.85
